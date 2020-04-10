@@ -7,8 +7,11 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "@ui5/webcomponents-react": "^0.7.3",
+    "@ui5/webcomponents-react-base": "^0.8.6",
+    "@ui5/webcomponents-react-charts": "^0.8.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1"
   },
   "scripts": {
